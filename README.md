@@ -1,8 +1,10 @@
 # 🛡️ CLOSED BOOK — A Personal Vault and Secure Encrypted Storage System
 
-**Developed by:** Abdul Khadar  
+**Developed by:** Abdul Khadar M.S
+**register number:** CHN24MCA-2001
 **Guided by:** Smt. A. Betty James  
 **Department of Computer Science, College of Engineering Chengannur**
+**MCA 2024-2026 BATCH**
 
 ---
 
